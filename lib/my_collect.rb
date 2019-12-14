@@ -3,7 +3,7 @@ i = 0
 collection = []
 while i < array.length 
     i += 1
-    yeild 
+    yield array[i] 
   end
 end
 
